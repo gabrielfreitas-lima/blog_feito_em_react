@@ -3,6 +3,7 @@
   padding: 10px 10px;
   border: none;
   border-radius: 10px;
+  font-size: 22px;
 }
 
 .input:focus{
